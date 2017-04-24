@@ -1,2 +1,3 @@
 # hello-world
-short descriptoin
+
+Hi all, just goofing around on git-hub here learning my stuff. #szechwansauce
